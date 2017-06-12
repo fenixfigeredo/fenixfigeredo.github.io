@@ -1,0 +1,39 @@
+/*div{
+border:#000 solid 1px
+}*/
+
+body{background-color:#CCFFFF;}
+
+.texto_centro {
+text-align: center;
+color:red; 
+font-family:purisa
+}
+
+ 
+.texto_centroh3{
+text-align: center;
+color:#FF6666
+}
+
+
+/* o que fazemos*/
+
+.parte1{background-color: #993366;
+text-align:justify;
+color:White
+}
+
+
+
+.parte2{background-color: #663366;
+text-align:justify;
+color:White
+}
+
+
+
+.parte3{background-color: #330033;
+text-align:justify;
+color:White
+}
